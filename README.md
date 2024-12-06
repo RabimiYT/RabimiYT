@@ -1,5 +1,5 @@
 <h1 align="center">やあ、私は ラビミ(@RabimiYT)だよ</h1>
-<h3 align="center">ゲームが好きなプログラマー</h3>
+<h3 align="center">🎮ゲームが好きな💻プログラマー</h3>
 
 <p align="left"> <a href="https://twitter.com/lettoelod" target="blank"><img src="https://img.shields.io/twitter/follow/lettoelod?logo=twitter&style=for-the-badge" alt="lettoelod" /></a> </p>
 
