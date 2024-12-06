@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lettoelod" target="blank"><img src="https://img.shields.io/twitter/follow/lettoelod?logo=twitter&style=for-the-badge" alt="lettoelod" /></a> </p>
 
-- 今作成しているプロジェクト [Sword Slime](sword-slime.github.io)
+- 今作成しているプロジェクト [Sword Slime](https://github.com/Sword-Slime/Sword-Slime.github.io)
 
 - 今学んでいる言語 **JavaScript,Python,C,C#,**
 
